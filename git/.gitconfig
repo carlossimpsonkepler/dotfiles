@@ -1,3 +1,9 @@
 [user]
 	name = Carlos Simpson
 	email = carlos.simpson@keplergrp.com
+
+[init]
+	defaultBranch = main
+
+[pull]
+	rebase = false

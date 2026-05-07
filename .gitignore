@@ -1,7 +1,9 @@
 .DS_Store
-*.swp
-*.swo
+
+secrets.sh
+*.secret
+*.secrets
 .env
 .env.*
-secrets*
-**/secrets*
+.config/sensitive/
+sensitive/
